@@ -1,0 +1,13 @@
+@media screen and (min-width: 1024px) {
+    .navbar ul li{
+        font-size: 1em;
+        padding: 0.4em;
+        margin-top: 3em;
+    }
+    .banner{
+        height: 80vh;
+    }
+    footer .icons2{
+        display: none;
+    }
+}

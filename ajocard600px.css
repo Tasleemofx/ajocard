@@ -1,0 +1,31 @@
+@media screen and (min-width: 500px) {
+    .hamburger{
+        display: none;
+    }
+    .header{
+        display: flex;
+        margin-left: 1em;
+        margin-top: 1em;
+        padding: 0.5em;
+    }
+    .go{
+        display: block;
+    }
+    .go li{
+        display: inline-block;
+        margin: 0.4em;
+        padding: 0.2em;
+    }
+    .banner{
+        height: 50vh;
+    }
+    .banner1{
+        padding: 4em;
+    }
+    
+    footer{
+        display: flex;
+        align-items: center;
+        color: white;
+    }
+}
