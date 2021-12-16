@@ -18,11 +18,20 @@
     }
     .banner{
         height: 50vh;
+        margin: 1em auto;
     }
     .banner1{
         padding: 4em;
+        font-size: 2em;;
     }
-    
+    .phone{
+    width: 20vw;
+    height: 70vh;
+}
+    .description{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
     footer{
         display: flex;
         align-items: center;
